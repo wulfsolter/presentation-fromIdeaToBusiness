@@ -1,0 +1,12 @@
+p {
+  text-align: left;
+}
+
+.col {
+  width: 50%;
+  float: left;
+}
+
+.reveal section img {
+  border: none;
+}
